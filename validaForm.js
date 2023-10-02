@@ -11,7 +11,7 @@ document
       if (codigo === "adm123" && senha === "adm123") {
          // Redirecionar para outra página após a validação
          window.location.href =
-            "https://juliafclima.github.io/dashboardJ-paula/pages/index.html";
+            "https://paulabeatrizsoliveira.github.io/pagina2/";
       } else {
          alert("Código ou senha inválidos. Tente novamente.");
       }
